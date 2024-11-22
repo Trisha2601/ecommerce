@@ -1,0 +1,5 @@
+django==4.2.5             # Replace with your Django version
+djangorestframework==3.14.0 # If using Django REST Framework
+django-jazzmin 
+mysqlclient        # If using MySQL          
+Pillow==10.0.1 
